@@ -7,4 +7,4 @@ Steps to run the Project:
 
 Precautions:
 1. Don't change the name of the files otherwise import statement in the code will throw error.
-2. make sure to make the current working directory to where you've pulled the code from github.
+2. make sure to make the current working directory on terminal to where you've pulled the code from github.
